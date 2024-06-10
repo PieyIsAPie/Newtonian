@@ -1,0 +1,2 @@
+# Newtonian
+Smol Vencord theme.
